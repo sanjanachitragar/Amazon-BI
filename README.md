@@ -7,10 +7,10 @@ The **Amazon Sales Dashboard** is a comprehensive data visualization tool design
 ## Visualizations
 ### **Card** 🗂️
 
-- **Total Orders**: 3,203
-- **Total Quantity Sold**: 12,000
-- **Total Profit**: $108.42K
-- **Total Sales**: $725.46K
+- **📦Total Orders**: 3,203
+- **📊Total Quantity Sold**: 12,000
+- **💰Total Profit**: $108.42K
+- **💸Total Sales**: $725.46K
 
 ### 1. **Sum of Sales by Order Date**: Line Chart 📈
 
