@@ -1,4 +1,6 @@
 # Amazon Sales Dashboard
+![image](https://github.com/user-attachments/assets/32ab2347-f3db-40bf-a47b-6b29c2dbb45b)
+
 
 ## Overview
 
